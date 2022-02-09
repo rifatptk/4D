@@ -13,4 +13,7 @@
 .modal-content{
   border-radius: 25px;
 }
+.d-flex.portfolio-item-caption.position-absolute.h-100.w-100 {
+  border-radius: 25px;
+}
 
