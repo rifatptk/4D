@@ -10,3 +10,7 @@
   margin: auto;
 }
 
+.modal-content{
+  border-radius: 25px;
+}
+
